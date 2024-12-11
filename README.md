@@ -30,7 +30,7 @@ python term.py
 ```
 
 3. **Filtered Image Save Path**
-- `~/Desktop/open-bus-edge.jpeg`
+- `~/Desktop/open/bus.jpeg`
 
 ## Features
 
